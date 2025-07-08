@@ -17,7 +17,3 @@ This app generates random strings from a content provider using MVVM architectur
 - ContentProvider
 - Coroutines
 
-## How to Run
-
-- Open in Android Studio
-- Run on emulator/device (minSdk 29)
